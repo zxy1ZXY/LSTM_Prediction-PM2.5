@@ -1,2 +1,3 @@
 # LSTM_Prediction
-Use LSTM to do PM2.5 prediction
+使用LSTM预测PM2.5浓度
+
